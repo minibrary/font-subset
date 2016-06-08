@@ -2,6 +2,8 @@
 
 ## Font Subsets for generate fonts, lightweighting.
 
+## Checkout src directory
+
 ### Currently Including:
 - Korean
 - Japanese (Include Kanji)
