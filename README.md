@@ -4,4 +4,7 @@
 
 ### Currently Including:
 - Korean
-- Japanese
+- Japanese (Include Kanji)
+
+#### Feel free to contact me for any missing characters/bugs
+* minibrary@gmail.com
